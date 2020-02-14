@@ -1,0 +1,30 @@
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+#dataContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#playersDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+#player {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    border: 1px solid black;
+    width: 30%;
+}
+#chartEtc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
